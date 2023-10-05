@@ -14,7 +14,7 @@ df
 
 Here's the sample output:
 
-![My Image](images/code1.png)
+![My Image](Images/code1.png)
 
 ## Removing duplicates
 
